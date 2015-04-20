@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+        <meta charset="utf-8">
+        <title>JS Bin</title>
+        <style>
+            .inverted {
+                -webkit-filter: invert(100%);
+            }
+        </style>
+    </head>
+    <body>
+        <script>
+            $(document).ready(function () {
+                function parseXml(xml) {
+                    var $tabl = $('<table>');
+                    $($(xml).find('wheel')).each(function (idx, val) {
+                        var $i = $(val).attr('source');
+                        var $j = $(val).attr('brand');
+                        var $k = $(val).attr('model');
+                        var $l = $(val).attr('finish');
+                        $tabl.append(
+                                $('<tr>')
+                                .append($('<td>').append($('<img>', {src: $i})))
+                                .append($('<td>').append($('<img>', {class: 'inverted', src: $i})))
+                                .append($('<td>', {text: $j}))
+                                .append($('<td>', {text: $k}))
+                                .append($('<td>', {text: $l}))
+                                );
+                    });
+                    $tabl.appendTo('body');
+                }
+                $.ajax({
+                    type: "GET",
+                    url: "image/wheels.xml",
+                    dataType: "xml",
+                    success: parseXml
+                });
+            });
+
+        </script>
+    </body>
+</html>

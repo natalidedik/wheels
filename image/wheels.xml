@@ -1,0 +1,36 @@
+<wheels>
+	<wheel source="tsw_cadwell_chrome.png" brand="TSW" model="Cadwell" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_cadwell_gunmetal.png" brand="TSW" model="Cadwell" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_croft_gunmetal.png" brand="TSW" model="Croft" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_donington_gunmetal.png" brand="TSW" model="Donington" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_donington_matte_black.png" brand="TSW" model="Donington" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_indy500_silver.png" brand="TSW" model="Indy 500" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_jarama_chrome.png" brand="TSW" model="Jarama" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_jarama_black.png" brand="TSW" model="Jarama" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_jarama_silver.png" brand="TSW" model="Jarama" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_londrina_chrome.png" brand="TSW" model="Londrina" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_londrina_black.png" brand="TSW" model="Londrina" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_mallory5_silver.png" brand="TSW" model="Mallory 5" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_mondello_chrome.png" brand="TSW" model="Mondello" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_mondello_black.png" brand="TSW" model="Mondello" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_nardo_chrome.png" brand="TSW" model="Nardo" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_nardo_gunmetal.png" brand="TSW" model="Nardo" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_nogaro_silver.png" brand="TSW" model="Nogaro" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_nurburgring_gunmetal.png" brand="TSW" model="Nurburgring" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_nurburgring_black.png" brand="TSW" model="Nurburgring" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_snetterton_chrome.png" brand="TSW" model="Snetterton" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_snetterton_silver.png" brand="TSW" model="Snetterton" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_strip_black.png" brand="TSW" model="Strip" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_strip_gunmetal.png" brand="TSW" model="Strip" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_thruxton_black.png" brand="TSW" model="Thruxton" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_vairano_black.png" brand="TSW" model="Vairano" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_vortex_chrome.png" brand="TSW" model="Vortex" finish="Chrome" width="90" height="90"></wheel>
+	<wheel source="tsw_vortex_hypersilver.png" brand="TSW" model="Vortex" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_willow_black.png" brand="TSW" model="Willow" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_willow_silver.png" brand="TSW" model="Willow" finish="Silver" width="90" height="90"></wheel>
+	<wheel source="tsw_willow_bronze.png" brand="TSW" model="Willow" finish="Bronze" width="90" height="90"></wheel>
+	<wheel source="tsw_zolder_black.png" brand="TSW" model="Zolder" finish="Black" width="90" height="90"></wheel>
+	<wheel source="tsw_zolder_bronze.png" brand="TSW" model="Zolder" finish="Bronze" width="90" height="90"></wheel>
+	<wheel source="tsw_zolder_gunmetal.png" brand="TSW" model="Zolder" finish="Gun Metal" width="90" height="90"></wheel>
+	<wheel source="tsw_zolder_silver.png" brand="TSW" model="Zolder" finish="Silver" width="90" height="90"></wheel>
+</wheels>
